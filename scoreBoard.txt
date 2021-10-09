@@ -1,0 +1,3 @@
+Martin 50
+Damian 20
+Lilly 10
